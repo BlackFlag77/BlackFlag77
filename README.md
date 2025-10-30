@@ -106,8 +106,8 @@ Currently, I’m focusing on:
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/food_ordering_and_delivery_system)
 - **Countries API Web App** *(React.js)* | AF Individual Project (Y3S1)  
 - **Finance Tracker Backend Project** *(MERN)* | AF Individual Project (Y3S1)     
-- **AutoBook - Automotive Service Integration System** *(MERN)* | ITP Group Project (Y2S2)     
-[GitHub Repo](https://github.com/BlackFlag77/AutoBook_IT_Project)    
+- **AutoBook - Automotive Service Integration System** *(MERN)* | ITP Group Project (Y2S2)
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/AutoBook_IT_Project)    
 - **LEETGames: Online Gaming Web Application with Community Forum** *(Java, Apache Tomcat, MVC)* | OOP Group Project (Y2S1)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project) 
 - **DropMe: Online Public Transportation Reservation System** *(HTML, PHP, CSS)* | IWT Group Project (Y1S2)    
@@ -116,7 +116,7 @@ Currently, I’m focusing on:
 #### Mobile Applications (React Native / Android)
 - **Tax-Trail Mobile Application: Public Budget Transparency** *(React Native, Expo Go, LangChain, GroqAI, Appwrite)* – Organization: TaxTrail Team | UEE/SPM Agile Group Project (Y3S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaxTrall-Team/Tax-Trail-Application)
-- **Task Manager App** *(Kotlin, SQLite)* | MAD Individual Project (Y3S2)    
+- **Task Manager App** *(Kotlin, SQLite)* | MAD Individual Project (Y2S2)    
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/TaskManagerAppFinal)
 
 <!---
