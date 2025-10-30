@@ -106,7 +106,7 @@ Currently, I’m focusing on:
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/food_ordering_and_delivery_system)
 - **Countries API Web App** *(React.js)* | AF Individual Project (Y3S1)  
 - **Finance Tracker Backend Project** *(MERN)* | AF Individual Project (Y3S1)     
-- **AutoBook - Automotive Service Integration System** *(MERN)* | ITP Group Project (Y2S2)
+- **AutoBook - Automotive Service Integration System** *(MERN)* | ITP Group Project (Y2S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/AutoBook_IT_Project)    
 - **LEETGames: Online Gaming Web Application with Community Forum** *(Java, Apache Tomcat, MVC)* | OOP Group Project (Y2S1)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project) 
