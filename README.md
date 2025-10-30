@@ -100,22 +100,24 @@ Currently, I’m focusing on:
 ### 📂 Main Projects
 
 #### Web Applications (MERN / React / Full Stack)
-- **Smart Waste Management System** *(MERN)* – Organization: Project-Group-3rd-Year-2nd-Semester  
+- **GreenLoop: Smart Waste Management System** *(MERN)* – Organization: Project-Group-3rd-Year-2nd-Semester | CSSE Group Project (Y3S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project) 
-- **Food Ordering and Delivery System** *(MERN)* – Organization: SLIIT - Y3S1 DS Project  
+- **Food Ordering and Delivery System** *(MERN, Docker, Kubernetes, Microservices)* – Organization: SLIIT - Y3S1 DS Project | DS Group Project (Y3S1)   
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)
-- **Countries API Web App** *(React.js)* – Individual Project
-- **Finance Tracker Backend Project** *(MERN)* – Individual Project  
-- **LEETGames** *(Java, MVC, Servlet, Apache Tomcat)* – Online Gaming Web Application with Community Forum – Group Project  
-  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project.git)   
-- **DropMe** *(HTML, PHP, CSS)* – Online Public Transportation Reservation System – Group Project  
-  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)  
+- **Countries API Web App** *(React.js)* | AF Individual Project (Y3S1)  
+- **Finance Tracker Backend Project** *(MERN)* | AF Individual Project (Y3S1)     
+- **AutoBook - Automotive Service Integration System** *(MERN)* | ITP Group Project (Y2S2)     
+[GitHub Repo](https://github.com/BlackFlag77/AutoBook)    
+- **LEETGames: Online Gaming Web Application with Community Forum** *(Java, Apache Tomcat, MVC)* | OOP Group Project (Y2S1)
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project.git) 
+- **DropMe: Online Public Transportation Reservation System** *(HTML, PHP, CSS)* | IWT Group Project (Y1S2)    
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project.git)  
 
 #### Mobile Applications (React Native / Android)
-- **Tax-Trail-Application** *(React Native, Expo Go)* – Organization: TaxTrail Team  
-  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)
-- **Task Manager App** *(Kotlin, SQLite)* – Individual Project  
-  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)
+- **Tax-Trail Mobile Application: Public Budget Transparency** *(React Native, Expo Go, LangChain, GroqAI, Appwrite)* – Organization: TaxTrail Team | UEE/SPM Agile Group Project (Y3S2)  
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaxTrall-Team/Tax-Trail-Application)
+- **Task Manager App** *(Kotlin, SQLite)* | MAD Individual Project (Y3S2)    
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/TaskManagerAppFinal)
 
 <!---
 #### Other / Misc Projects
