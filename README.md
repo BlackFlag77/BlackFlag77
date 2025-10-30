@@ -100,21 +100,21 @@ Currently, I’m focusing on:
 ### 📂 Main Projects
 
 #### Web Applications (MERN / React / Full Stack)
-- **Smart Waste Management System** *(MERN)* – Organization: Project-Group-3rd-Year-2nd-Semester
+- **Smart Waste Management System** *(MERN)* – Organization: Project-Group-3rd-Year-2nd-Semester  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project) 
-- **Food Ordering and Delivery System** *(MERN)* – Organization: SLIIT - Y3S1 DS Project
+- **Food Ordering and Delivery System** *(MERN)* – Organization: SLIIT - Y3S1 DS Project  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)
 - **Countries API Web App** *(React.js)* – Individual Project
 - **Finance Tracker Backend Project** *(MERN)* – Individual Project  
-- **LEETGames** *(Java, MVC, Servlet, Apache Tomcat)* – Online Gaming Web Application with Community Forum – Group Project
+- **LEETGames** *(Java, MVC, Servlet, Apache Tomcat)* – Online Gaming Web Application with Community Forum – Group Project  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project.git)   
-- **DropMe** *(HTML, PHP, CSS)* – Online Public Transportation Reservation System – Group Project
+- **DropMe** *(HTML, PHP, CSS)* – Online Public Transportation Reservation System – Group Project  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)  
 
 #### Mobile Applications (React Native / Android)
-- **Tax-Trail-Application** *(React Native, Expo Go)* – Organization: TaxTrail Team
+- **Tax-Trail-Application** *(React Native, Expo Go)* – Organization: TaxTrail Team  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)
-- **Task Manager App** *(Kotlin, SQLite)* – Individual Project
+- **Task Manager App** *(Kotlin, SQLite)* – Individual Project  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)
 
 <!---
