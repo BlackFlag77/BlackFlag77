@@ -101,17 +101,15 @@ Currently, I’m focusing on:
 
 #### Web Applications (MERN / React / Full Stack)
 - **Smart Waste Management System** *(MERN)* – Organization: Project-Group-3rd-Year-2nd-Semester
-  ![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-blue?style=for-the-badge&logo=github)   
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-View%20Repo-blue?style=for-the-badge&logo=github)   
 - **Food Ordering and Delivery System** *(MERN)* – Organization: SLIIT - Y3S1 DS Project
-  <a href="https://github.com/BlackFlag77/AutoBook" target="_blank" style="text-decoration:none;">
-    <span style="background-color:#0A66C2; color:white; padding:4px 12px; border-radius:8px; font-weight:bold;">GitHub Repo</span>
-  </a>
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-View%20Repo-blue?style=for-the-badge&logo=github)   
 - **Countries API Web App** *(React.js)* – Individual Project
 - **Finance Tracker Backend Project** *(MERN)* – Individual Project  
-- **LEETGames** *(Java, MVC, Servlet, Apache Tomcat)* – Online Gaming Web Application with Community Forum – Group Project 
-  [GitHub Repo](https://github.com/BlackFlag77/LEETGames_OOP_Project.git)   
-- **DropMe** *(HTML, PHP, CSS)* – Online Public Transportation Reservation System – Group Project  
-  [GitHub Repo](https://github.com/BlackFlag77/DropMe_IWT_Project)  
+- **LEETGames** *(Java, MVC, Servlet, Apache Tomcat)* – Online Gaming Web Application with Community Forum – Group Project
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project.git)   
+- **DropMe** *(HTML, PHP, CSS)* – Online Public Transportation Reservation System – Group Project
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-View%20Repo-blue?style=for-the-badge&logo=github)(https://github.com/BlackFlag77/DropMe_IWT_Project)  
 
 #### Mobile Applications (React Native / Android)
 - **Tax-Trail-Application** *(React Native, Expo Go)* – Organization: TaxTrail Team  
