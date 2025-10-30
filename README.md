@@ -41,6 +41,9 @@ Currently, I’m focusing on:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-FF3B30?style=for-the-badge&logo=appwrite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![GroqAI](https://img.shields.io/badge/GroqAI-00C2FF?style=for-the-badge&logo=ai&logoColor=white)
 
 **Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
@@ -97,7 +100,8 @@ Currently, I’m focusing on:
 ### 📂 Main Projects
 
 #### Web Applications (MERN / React / Full Stack)
-- **Smart Waste Management System** *(MERN)* – Organization: Project-Group-3rd-Year-2nd-Semester  
+- **Smart Waste Management System** *(MERN)* – Organization: Project-Group-3rd-Year-2nd-Semester
+  ![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-blue?style=for-the-badge&logo=github)   
 - **Food Ordering and Delivery System** *(MERN)* – Organization: SLIIT - Y3S1 DS Project  
 - **Countries API Web App** *(React.js)* – Individual Project  
 - **Finance Tracker Backend Project** *(MERN)* – Individual Project  
