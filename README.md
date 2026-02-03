@@ -122,7 +122,7 @@ Currently, I’m focusing on:
 
 <!---
 #### Other / Misc Projects
-- Other small scripts or experiments here if relevant
+- Other small scripts or experiments or personal projects here if relevant
 --->
 ---
 
