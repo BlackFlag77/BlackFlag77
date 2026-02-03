@@ -127,9 +127,36 @@ Currently, I’m focusing on:
 ---
 
 ### 📈 GitHub Stats
+![Muditha's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=BlackFlag77&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlackFlag77&layout=compact&theme=tokyonight)
+
+<!---
 ![Muditha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackFlag77&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackFlag77&layout=compact&theme=tokyonight)
 
+It stopped working:
+This Deployment is paused by the owner.
+Your connection is working correctly.
+Vercel is working correctly.
+503: SERVICE_UNAVAILABLE
+Code: DEPLOYMENT_PAUSED
+
+Since Vercel stopped sponsoring the project in late 2024, the traffic became too expensive to host for free. As the error message "Deployment is paused" indicates, this isn't a temporary downtime or a syntax error on your part—the server itself has been shut down to avoid costs.
+
+(1) Using a reliable community-maintained alternative which is github-readme-stats-fast:
+![Muditha's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=BlackFlag77&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlackFlag77&layout=compact&theme=tokyonight)
+
+(2) Or use a Streak Card (The "Anurag Hazra" Mirror):
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackFlag77&theme=tokyonight)
+
+(3) Or Deploying my own:
+1. Go to the GitHub Readme Stats Repo.
+2. Scroll down to the "Deploy on your own" section and click the blue "Deploy" button for Vercel.
+3. Follow the prompts to link your GitHub account.
+4. Once deployed, Vercel will give you a unique URL (e.g., my-stats-abc.vercel.app).
+5. Replace the broken github-readme-stats.vercel.app in your README with your new personal URL.
+--->
 ---
 
 ### 🤝 Connect with Me
