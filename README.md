@@ -126,9 +126,23 @@ Currently, I’m focusing on:
 --->
 ---
 
+<!---
 ### 📈 GitHub Stats
 ![Muditha's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=BlackFlag77&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlackFlag77&layout=compact&theme=tokyonight)
+--->
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=BlackFlag77&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlackFlag77&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlackFlag77&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BlackFlag77&theme=tokyo-night&hide_border=true&area=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=BlackFlag77&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/BlackFlag77)
+
+</div>
 
 <!---
 ![Muditha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackFlag77&show_icons=true&theme=tokyonight)
