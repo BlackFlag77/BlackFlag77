@@ -9,19 +9,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muditha+%F0%9F%91%8B;Full-Stack+Developer;Web+%26+Mobile+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 <!-- color = 7F77DD FF0000 FFD700 FACC15 -->
 
-<!-- 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=Muditha+Bandara;BlackFlag77" alt="Muditha Bandara / BlackFlag77" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=Muditha+Bandara;BlackFlag77" alt="Muditha Bandara / BlackFlag77" />
 </p>
--->
 
 <!-- 
 # Muditha Bandara &nbsp;·&nbsp; BlackFlag77
 -->
-
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgNjAwIDUwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxzdHlsZT4KICAgIEBrZXlmcmFtZXMgc2xpZGUtZmFkZSB7CiAgICAgIDAlLCAxNSUgeyB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMTVweCk7IG9wYWNpdHk6IDA7IH0KICAgICAgMjUlLCA0NSUgeyB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMCk7IG9wYWNpdHk6IDE7IH0KICAgICAgNTUlLCAxMDAlIHsgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC0xNXB4KTsgb3BhY2l0eTogMDsgfQogICAgfQogICAgQGtleWZyYW1lcyBzbGlkZS1mYWRlLWRlbGF5ZWQgewogICAgICAwJSwgNTAlIHsgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDE1cHgpOyBvcGFjaXR5OiAwOyB9CiAgICAgIDYwJSwgODUlIHsgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDApOyBvcGFjaXR5OiAxOyB9CiAgICAgIDk1JSwgMTAwJSB7IHRyYW5zZm9ybTogdHJhbnNsYXRlWSgtMTVweCk7IG9wYWNpdHk6IDA7IH0KICAgIH0KICAgIC50ZXh0IHsKICAgICAgZm9udC1mYW1pbHk6ICdJbnRlcicsIC1hcHBsZS1zeXN0ZW0sIEJsaW5rTWFjU3lzdGVtRm9udCwgJ1NlZ29lIFVJJywgUm9ib3RvLCBzYW5zLXNlcmlmOwogICAgICBmb250LXdlaWdodDogNzAwOwogICAgICBmb250LXNpemU6IDM0cHg7CiAgICAgIHRleHQtYW5jaG9yOiBtaWRkbGU7CiAgICAgIGRvbWluYW50LWJhc2VsaW5lOiBtaWRkbGU7CiAgICB9CiAgICAucHJpbWFyeSB7IGZpbGw6ICNmZmZmZmY7IH0KICAgIC5hY2NlbnQgeyBmaWxsOiAjRkZENzAwOyB9CiAgICAuYW5pbS0xIHsgYW5pbWF0aW9uOiBzbGlkZS1mYWRlIDhzIGluZmluaXRlIGVhc2UtaW4tb3V0OyB9CiAgICAuYW5pbS0yIHsgYW5pbWF0aW9uOiBzbGlkZS1mYWRlLWRlbGF5ZWQgOHMgaW5maW5pdGUgZWFzZS1pbi1vdXQ7IH0KICA8L3N0eWxlPgogIDxnIGNsYXNzPSJhbmltLTEiPgogICAgPHRleHQgeD0iNTAlIiB5PSIyNSIgY2xhc3M9InRleHQgcHJpbWFyeSI+TXVkaXRoYSBCYW5kYXJhPC90ZXh0PgogIDwvZz4KICA8ZyBjbGFzcz0iYW5pbS0yIj4KICAgIDx0ZXh0IHg9IjUwJSIgeT0iMjUiIGNsYXNzPSJ0ZXh0IGFjY2VudCI+QmxhY2tGbGFnNzc8L3RleHQ+CiAgPC9nPgo8L3N2Zz4=" width="600" alt="Muditha Bandara / BlackFlag77" />
-</p>
 
 **Software Engineering Undergraduate** @ SLIIT (Year 4)  
 Full-Stack Developer · Web & Mobile · Game Dev · AI/ML Enthusiast
