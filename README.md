@@ -6,8 +6,8 @@
  
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muditha+%F0%9F%91%8B;Full-Stack+Developer;Web+%26+Mobile+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muditha+%F0%9F%91%8B;Full-Stack+Developer;Web+%26+Mobile+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- color = 7F77DD FF0000 FFD700 -->
 # Muditha Bandara &nbsp;·&nbsp; BlackFlag77
 
 **Software Engineering Undergraduate** @ SLIIT (Year 4)  
