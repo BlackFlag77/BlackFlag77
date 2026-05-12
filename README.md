@@ -1,6 +1,21 @@
+<!-- 
 # 👋 Hey there! I'm Muditha Bandara AKA BlackFlag77
 
 🎓 **Software Engineering Undergraduate** | 💻 **Aspiring Full-Stack Developer**
+ -->
+ 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muditha+%F0%9F%91%8B;Full-Stack+Developer;Web+%26+Mobile+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+# Muditha Bandara &nbsp;·&nbsp; BlackFlag77
+
+**Software Engineering Undergraduate** @ SLIIT (Year 4)  
+Full-Stack Developer · Web & Mobile · Game Dev · AI/ML Enthusiast
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=BlackFlag77.BlackFlag77&style=flat-square&color=7F77DD" alt="Visitor Count"/>
+
+</div>
 
 ---
 
