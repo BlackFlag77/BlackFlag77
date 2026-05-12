@@ -173,6 +173,14 @@ Since Vercel stopped sponsoring the project in late 2024, the traffic became too
 --->
 ---
 
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muditha%20Bandara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muditha-bandara/)
+[![GitHub](https://img.shields.io/badge/GitHub-BlackFlag77-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77)
+
+<sub>Open to collaborations and interesting projects — feel free to reach out!</sub>
+
+<!---
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muditha%20Bandara-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muditha-bandara/)  
 
@@ -180,6 +188,8 @@ Since Vercel stopped sponsoring the project in late 2024, the traffic became too
 
 ### ⚡ Fun Fact
 Fun facts are not so fun now, do they? 😅
+--->
+
 
 <!--- 
 OLD DESCRIPTION
