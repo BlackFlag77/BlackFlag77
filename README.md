@@ -10,7 +10,7 @@
 <!-- color = 7F77DD FF0000 FFD700 -->
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Muditha+Bandara;%2300D4FF+BlackFlag77" alt="Muditha Bandara / BlackFlag77" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&pause=2000&color=FACC15&center=true&vCenter=true&width=600&lines=Muditha+Bandara;%2300D4FF+BlackFlag77" alt="Muditha Bandara / BlackFlag77" />
 </p>
 
 <!-- 
