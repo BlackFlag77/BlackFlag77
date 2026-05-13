@@ -101,11 +101,11 @@ Currently, I’m focusing on:
 ![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black)
 
 **Interests:**  
-![Full-Stack](https://img.shields.io/badge/Full--Stack-0A66C2?style=for-the-badge) 
-![Web App](https://img.shields.io/badge/Web%20Development-F7DF1E?style=for-the-badge)
-![Mobile App](https://img.shields.io/badge/Mobile%20App-61DAFB?style=for-the-badge)
-![Game Dev](https://img.shields.io/badge/Game%20Development-FF6F61?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-00C2FF?style=for-the-badge)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-007BFF?style=for-the-badge&logo=react&logoColor=white)
+![Web App](https://img.shields.io/badge/Web%20Development-FFD700?style=for-the-badge&logo=googlechrome&logoColor=black)
+![Mobile App](https://img.shields.io/badge/Mobile%20App-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%20%26%20ML-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![Game Dev](https://img.shields.io/badge/Game%20Development-FF0000?style=for-the-badge&logo=unity&logoColor=white)
 
 <!---
 ---
