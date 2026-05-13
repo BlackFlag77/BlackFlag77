@@ -16,7 +16,7 @@
 <!-- # Muditha Bandara &nbsp;·&nbsp; BlackFlag77 -->
 
 **Software Engineering Undergraduate** @ SLIIT (Year 4)  
-Full-Stack Developer · Web & Mobile · Game Dev · AI/ML Enthusiast
+Full-Stack Developer · Web & Mobile · AI/ML Enthusiast · Game Dev
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BlackFlag77.BlackFlag77&style=flat-square&color=7F77DD" alt="Visitor Count"/>
 
