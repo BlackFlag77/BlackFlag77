@@ -94,6 +94,12 @@ Currently, I’m focusing on:
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T-SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+**AI, ML & LLMs:**  
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Llama 3.2](https://img.shields.io/badge/Llama_3%2e2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![GroqAI](https://img.shields.io/badge/GroqAI-00C2FF?style=for-the-badge&logo=nvidia&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-7FC8FF?style=for-the-badge&logo=langchain&logoColor=black)
+
 **Interests:**  
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-0A66C2?style=for-the-badge) 
 ![Web App](https://img.shields.io/badge/Web%20Development-F7DF1E?style=for-the-badge)
