@@ -9,11 +9,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Muditha+%F0%9F%91%8B;Full-Stack+Developer;Web+%26+Mobile+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
 <!-- color = 7F77DD FF0000 FFD700 FACC15 -->
 
-<!-- <p align="center">
+<p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=38&pause=2000&color=FFD700&center=true&vCenter=true&width=600&lines=Muditha+Bandara;BlackFlag77" alt="Muditha Bandara / BlackFlag77" />
-</p> -->
+</p>
 
-# Muditha Bandara &nbsp;·&nbsp; BlackFlag77
+<!-- # Muditha Bandara &nbsp;·&nbsp; BlackFlag77 -->
 
 **Software Engineering Undergraduate** @ SLIIT (Year 4)  
 Full-Stack Developer · Web & Mobile · Game Dev · AI/ML Enthusiast
