@@ -141,6 +141,13 @@ Currently, I’m focusing on:
 
 ### 📂 Main Projects
 
+#### 🤖 AI, Machine Learning & Agents
+- **Multi-Agent Ticket Resolution System** *(Python, Ollama, Llama 3.2, LangChain, LangGraph)* – Organization: SLIIT-Y4S1-ORG | CTSE Group Project (Y4S1)  
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SLIIT-Y4S1-ORG/CTSE-SE4010-ASSIGNMENT02)
+
+- **Backruptcy Prediction ML Models** *(Python, NumPy, Scikit-Learn)* – Organization: SLIIT-Y4S1-ORG | ML Group Project (Y4S1)  
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SLIIT-Y4S1-ORG/ML-IT4060-ASSIGNMENT01) 
+
 #### Web Applications (MERN / React / Full Stack)
 - **GreenLoop: Smart Waste Management System** *(MERN, Firebase, Stripe)* – Organization: Project-Group-3rd-Year-2nd-Semester | CSSE Group Project (Y3S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Project-Group-3rd-Year-2nd-Semster/Smart-Waste-Management-System) 
