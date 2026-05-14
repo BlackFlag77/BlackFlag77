@@ -158,7 +158,7 @@ Currently, I’m focusing on:
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SE1020-IT2070-OOP-DSA-25/project-BlackFlag77.git) 
 - **AutoBook - Automotive Service Integration System** *(MERN)* | ITP Group Project (Y2S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/AutoBook_IT_Project)    
-- **LEETGames: Online Gaming Web Application with Community Forum** *(Java, Apache Tomcat, MVC)* | OOP Group Project (Y2S1) 
+- **LEETGames: Online Gaming Web Application with Community Forum** *(Java, Apache Tomcat, MVC)* | OOP Group Project (Y2S1)   
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project) 
 - **DropMe: Online Public Transportation Reservation System** *(HTML, PHP, CSS)* | IWT Group Project (Y1S2)    
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)  
