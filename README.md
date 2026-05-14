@@ -148,7 +148,7 @@ Currently, I’m focusing on:
 - **Backruptcy Prediction ML Models** *(Python, NumPy, Scikit-Learn)* – Organization: SLIIT-Y4S1-ORG | ML Group Project (Y4S1)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SLIIT-Y4S1-ORG/ML-IT4060-ASSIGNMENT01) 
 
-#### Web Applications (MERN / React / Full Stack)
+#### 🌐 Web Applications (Full Stack & Backend)
 - **GreenLoop: Smart Waste Management System** *(MERN, Firebase, Stripe)* – Organization: Project-Group-3rd-Year-2nd-Semester | CSSE Group Project (Y3S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Project-Group-3rd-Year-2nd-Semster/Smart-Waste-Management-System) 
 - **Food Ordering and Delivery System** *(MERN, Docker, Kubernetes, Microservices)* – Organization: SLIIT - Y3S1 DS Project | DS Group Project (Y3S1)   
@@ -158,16 +158,24 @@ Currently, I’m focusing on:
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SE1020-IT2070-OOP-DSA-25/project-BlackFlag77.git) 
 - **AutoBook - Automotive Service Integration System** *(MERN)* | ITP Group Project (Y2S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/AutoBook_IT_Project)    
-- **LEETGames: Online Gaming Web Application with Community Forum** *(Java, Apache Tomcat, MVC)* | OOP Group Project (Y2S1)  
+- **LEETGames: Online Gaming Web Application with Community Forum** *(Java, Apache Tomcat, MVC)* | OOP Group Project (Y2S1) 
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/LEETGames_OOP_Project) 
 - **DropMe: Online Public Transportation Reservation System** *(HTML, PHP, CSS)* | IWT Group Project (Y1S2)    
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/DropMe_IWT_Project)  
 
-#### Mobile Applications (React Native / Android)
+#### 📱 Mobile Applications (React Native / Android)
 - **Tax-Trail Mobile Application: Public Budget Transparency** *(React Native, Expo Go, LangChain, GroqAI, Appwrite)* – Organization: TaxTrail Team | UEE/SPM Agile Group Project (Y3S2)  
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TaxTrall-Team/Tax-Trail-Application)
 - **Task Manager App** *(Kotlin, SQLite)* | MAD Individual Project (Y2S2)    
   [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/TaskManagerAppFinal)
+
+#### ☁️ Microservices & Cloud (Spring Boot / AWS / Azure / GCP)
+- **Healthcare Management System** *(Spring Boot, Java, React, GCP, Docker, Microservices)* – Organization: CTSEAssignment01 | CTSE Group Project (Y4S1)  
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CTSEAssignment01)
+- **Azure Deployment Lab** *(Azure, Docker, Microservices)* – Individual Project (Y4S1)  
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/ctse-lab7-azure-microservices-deployment-)
+- **DevOps Lab** *(DevOps, CI/CD, Docker)* – Individual Project (Y4S1)  
+  [![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-0078FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlackFlag77/CTSE-DevOps-Lab)
 
 <!---
 #### Other / Misc Projects
